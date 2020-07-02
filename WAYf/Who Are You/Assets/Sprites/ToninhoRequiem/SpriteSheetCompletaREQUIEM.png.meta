@@ -1,0 +1,1583 @@
+fileFormatVersion: 2
+guid: 02eb239fbf96f7048bfbfbf9fae491c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8905976824683384242
+    second: SpriteSheetCompletaREQUIEM_0
+  - first:
+      213: 6286904329149334979
+    second: SpriteSheetCompletaREQUIEM_1
+  - first:
+      213: 9019278951651878917
+    second: SpriteSheetCompletaREQUIEM_2
+  - first:
+      213: -9038958919905116485
+    second: SpriteSheetCompletaREQUIEM_3
+  - first:
+      213: -8395563007525269052
+    second: SpriteSheetCompletaREQUIEM_4
+  - first:
+      213: -2410955368003772490
+    second: SpriteSheetCompletaREQUIEM_5
+  - first:
+      213: -5548185306747381102
+    second: SpriteSheetCompletaREQUIEM_6
+  - first:
+      213: 3167204909293908163
+    second: SpriteSheetCompletaREQUIEM_7
+  - first:
+      213: 8092226970069970109
+    second: SpriteSheetCompletaREQUIEM_8
+  - first:
+      213: 3532904333533761589
+    second: SpriteSheetCompletaREQUIEM_9
+  - first:
+      213: 3977660230150783819
+    second: SpriteSheetCompletaREQUIEM_10
+  - first:
+      213: 7912405434125340618
+    second: SpriteSheetCompletaREQUIEM_11
+  - first:
+      213: -1737635572861705872
+    second: SpriteSheetCompletaREQUIEM_12
+  - first:
+      213: -5958122696059084359
+    second: SpriteSheetCompletaREQUIEM_13
+  - first:
+      213: -5415009277202692684
+    second: SpriteSheetCompletaREQUIEM_14
+  - first:
+      213: -4049850330295972134
+    second: SpriteSheetCompletaREQUIEM_15
+  - first:
+      213: -8489351256792578985
+    second: SpriteSheetCompletaREQUIEM_16
+  - first:
+      213: -5444711188835099342
+    second: SpriteSheetCompletaREQUIEM_17
+  - first:
+      213: 8925699673128507065
+    second: SpriteSheetCompletaREQUIEM_18
+  - first:
+      213: 6173011768951155202
+    second: SpriteSheetCompletaREQUIEM_19
+  - first:
+      213: 7776936167335301575
+    second: SpriteSheetCompletaREQUIEM_20
+  - first:
+      213: -5302953236582826335
+    second: SpriteSheetCompletaREQUIEM_21
+  - first:
+      213: 5301259719990796746
+    second: SpriteSheetCompletaREQUIEM_22
+  - first:
+      213: 504660135970459503
+    second: SpriteSheetCompletaREQUIEM_23
+  - first:
+      213: -943671304707912872
+    second: SpriteSheetCompletaREQUIEM_24
+  - first:
+      213: -845228282797080074
+    second: SpriteSheetCompletaREQUIEM_25
+  - first:
+      213: 7201020626245023640
+    second: SpriteSheetCompletaREQUIEM_26
+  - first:
+      213: 7473891524998048359
+    second: SpriteSheetCompletaREQUIEM_27
+  - first:
+      213: -6824488697948009346
+    second: SpriteSheetCompletaREQUIEM_28
+  - first:
+      213: -4543713048101734687
+    second: SpriteSheetCompletaREQUIEM_29
+  - first:
+      213: 1139778378167750547
+    second: SpriteSheetCompletaREQUIEM_30
+  - first:
+      213: -4270943979060480315
+    second: SpriteSheetCompletaREQUIEM_31
+  - first:
+      213: -1188847219960999011
+    second: SpriteSheetCompletaREQUIEM_32
+  - first:
+      213: 6858584416249902367
+    second: SpriteSheetCompletaREQUIEM_33
+  - first:
+      213: 1635457725021554299
+    second: SpriteSheetCompletaREQUIEM_34
+  - first:
+      213: 2236400006769740002
+    second: SpriteSheetCompletaREQUIEM_35
+  - first:
+      213: -6166054572919751856
+    second: SpriteSheetCompletaREQUIEM_36
+  - first:
+      213: 4141379625847036605
+    second: SpriteSheetCompletaREQUIEM_37
+  - first:
+      213: -4928327814645859774
+    second: SpriteSheetCompletaREQUIEM_38
+  - first:
+      213: -6768064816998455234
+    second: SpriteSheetCompletaREQUIEM_39
+  - first:
+      213: -5062556657069866592
+    second: SpriteSheetCompletaREQUIEM_40
+  - first:
+      213: 3059860253552780468
+    second: SpriteSheetCompletaREQUIEM_41
+  - first:
+      213: 3518017107190556512
+    second: SpriteSheetCompletaREQUIEM_42
+  - first:
+      213: -8038623588902570923
+    second: SpriteSheetCompletaREQUIEM_43
+  - first:
+      213: -1987388753241277965
+    second: SpriteSheetCompletaREQUIEM_44
+  - first:
+      213: 5420761668582252263
+    second: SpriteSheetCompletaREQUIEM_45
+  - first:
+      213: -318512625915209792
+    second: SpriteSheetCompletaREQUIEM_46
+  - first:
+      213: 4369080556072460618
+    second: SpriteSheetCompletaREQUIEM_47
+  - first:
+      213: 932840691296860479
+    second: SpriteSheetCompletaREQUIEM_48
+  - first:
+      213: -3620024135541714967
+    second: SpriteSheetCompletaREQUIEM_49
+  - first:
+      213: 5487664922065042233
+    second: SpriteSheetCompletaREQUIEM_50
+  - first:
+      213: 8427079239790886740
+    second: SpriteSheetCompletaREQUIEM_51
+  - first:
+      213: 2242381688272039824
+    second: SpriteSheetCompletaREQUIEM_52
+  - first:
+      213: -1889109755630626984
+    second: SpriteSheetCompletaREQUIEM_53
+  - first:
+      213: 1147152479882976369
+    second: SpriteSheetCompletaREQUIEM_54
+  - first:
+      213: -8179854715886097713
+    second: SpriteSheetCompletaREQUIEM_55
+  - first:
+      213: -8193539922725285956
+    second: SpriteSheetCompletaREQUIEM_56
+  - first:
+      213: 4739503467975148888
+    second: SpriteSheetCompletaREQUIEM_57
+  - first:
+      213: -3291046718087249258
+    second: SpriteSheetCompletaREQUIEM_58
+  - first:
+      213: 5016439457009776529
+    second: SpriteSheetCompletaREQUIEM_59
+  - first:
+      213: 8226683047048131035
+    second: SpriteSheetCompletaREQUIEM_60
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5419647, y: 0.7930739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd4d157cb2689b70800000000000000
+      internalID: 8905976824683384242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 216
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5419647, y: 0.7930739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5cfcb8d229f3750800000000000000
+      internalID: 6286904329149334979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5419647, y: 0.7930739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5082e5b9b6aea2d70800000000000000
+      internalID: 9019278951651878917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 216
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5419647, y: 0.7930739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbef4b7b0ca2f8280800000000000000
+      internalID: -9038958919905116485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5419647, y: 0.7930739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1db0f1de7fc7b80800000000000000
+      internalID: -8395563007525269052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 216
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5419647, y: 0.7930739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf50d8ddd09a8ed0800000000000000
+      internalID: -2410955368003772490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5419647, y: 0.7930739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ad74bebd2e003b0800000000000000
+      internalID: -5548185306747381102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 216
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5419647, y: 0.7930739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0365d951c24fb20800000000000000
+      internalID: 3167204909293908163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5419647, y: 0.7930739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc2bd80e8d5d4070800000000000000
+      internalID: 8092226970069970109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 216
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5419647, y: 0.7930739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530d7b1f5c5670130800000000000000
+      internalID: 3532904333533761589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 216
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5419647, y: 0.7930739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43065f97ec733730800000000000000
+      internalID: 3977660230150783819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4086769, y: 0.4043533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf49e312d28ecd60800000000000000
+      internalID: 7912405434125340618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4086769, y: 0.4043533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071ee7227ada2e7e0800000000000000
+      internalID: -1737635572861705872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 180
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4086769, y: 0.4043533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1a435b9fe705da0800000000000000
+      internalID: -5958122696059084359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 180
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4086769, y: 0.4043533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b583e890c50ad4b0800000000000000
+      internalID: -5415009277202692684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 180
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4086769, y: 0.4043533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adec535e49a0cc7c0800000000000000
+      internalID: -4049850330295972134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4086769, y: 0.4043533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754cc5da204cf2a80800000000000000
+      internalID: -8489351256792578985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 180
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4086769, y: 0.4043533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d93e465008074b0800000000000000
+      internalID: -5444711188835099342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 180
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4086769, y: 0.4043533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b615a4ff847edb70800000000000000
+      internalID: 8925699673128507065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4086769, y: 0.4043533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aa3a27f71faa550800000000000000
+      internalID: 6173011768951155202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_20
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 180
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4086769, y: 0.4043533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c198ee7d3a3deb60800000000000000
+      internalID: 7776936167335301575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4086769, y: 0.4043533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aef8f8a0202866b0800000000000000
+      internalID: -5302953236582826335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac16328c0abd19940800000000000000
+      internalID: 5301259719990796746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fc1d848b9e00700800000000000000
+      internalID: 504660135970459503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bc72ab2f767e2f0800000000000000
+      internalID: -943671304707912872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f144c1ea552544f0800000000000000
+      internalID: -845228282797080074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897789f5b1a2fe360800000000000000
+      internalID: 7201020626245023640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aaf4d5eb898b760800000000000000
+      internalID: 7473891524998048359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c0429dfab8a41a0800000000000000
+      internalID: -6824488697948009346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b69e6e0d71f0c0800000000000000
+      internalID: -4543713048101734687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f0c59656e41df00800000000000000
+      internalID: 1139778378167750547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6b188541f8ab4c0800000000000000
+      internalID: -4270943979060480315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93930290cd508fe0800000000000000
+      internalID: -1188847219960999011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15fa9030369e2f50800000000000000
+      internalID: 6858584416249902367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b760419c22052b610800000000000000
+      internalID: 1635457725021554299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8013b05f9490f10800000000000000
+      internalID: 2236400006769740002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_36
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 144
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4040623, y: 0.393355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bf17bf806cd6aa0800000000000000
+      internalID: -6166054572919751856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3996672, y: 0.4490009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba17a6e3d2297930800000000000000
+      internalID: 4141379625847036605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 108
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3996672, y: 0.4490009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a3b57c6ff0b9bb0800000000000000
+      internalID: -4928327814645859774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3996672, y: 0.4490009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38ecfd58e00312a0800000000000000
+      internalID: -6768064816998455234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_40
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3996672, y: 0.4490009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1cf000b8f2eb9b0800000000000000
+      internalID: -5062556657069866592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 108
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3996672, y: 0.4490009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4a95350bec67a20800000000000000
+      internalID: 3059860253552780468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 108
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3996672, y: 0.4490009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06727d37be182d030800000000000000
+      internalID: 3518017107190556512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 108
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3996672, y: 0.4490009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554f264bf62117090800000000000000
+      internalID: -8038623588902570923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 108
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.3996672, y: 0.4490009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9727465706b64e0800000000000000
+      internalID: -1987388753241277965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4016782, y: 0.4587968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee16e3640a6a3b40800000000000000
+      internalID: 5420761668582252263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4016782, y: 0.4587968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7d8db447a649bf0800000000000000
+      internalID: -318512625915209792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4016782, y: 0.4587968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41e3cb0e9712ac30800000000000000
+      internalID: 4369080556072460618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4016782, y: 0.4587968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3977c49aad12fc00800000000000000
+      internalID: 932840691296860479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.40217647, y: 0.42935637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef02ba7a3713cdc0800000000000000
+      internalID: -3620024135541714967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.349514, y: 0.4811431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bfe06fb2a182c40800000000000000
+      internalID: 5487664922065042233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.349514, y: 0.4811431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ffdc58beff2f470800000000000000
+      internalID: 8427079239790886740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.349514, y: 0.4811431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fab4cc34a8e1f10800000000000000
+      internalID: 2242381688272039824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_53
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.349514, y: 0.4811431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85759e9afa888c5e0800000000000000
+      internalID: -1889109755630626984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.349514, y: 0.4811431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c12a24a118bef00800000000000000
+      internalID: 1147152479882976369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.349514, y: 0.4811431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca2e4189715b7e80800000000000000
+      internalID: -8179854715886097713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_56
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.349514, y: 0.4811431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4afcf9d2ba4e80800000000000000
+      internalID: -8193539922725285956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_57
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.349514, y: 0.4811431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855046c0b4916c140800000000000000
+      internalID: 4739503467975148888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.349514, y: 0.4811431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692c135527ad352d0800000000000000
+      internalID: -3291046718087249258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_59
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.349514, y: 0.4811431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1973250ab19fd9540800000000000000
+      internalID: 5016439457009776529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetCompletaREQUIEM_60
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.349514, y: 0.4811431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1380bf4ac0b2270800000000000000
+      internalID: 8226683047048131035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 383edfdd9ac630f419bac4a84cbeb190, type: 3}
+      name: _NormalMap
+    - texture: {fileID: 2800000, guid: 04d787f1074b5dc4b814657bb2d8b8d2, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
